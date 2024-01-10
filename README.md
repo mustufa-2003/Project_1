@@ -1,4 +1,4 @@
-# www.WorldClock.com
+# World Clock
 
 This is a simple web application that displays the local time for different prime locations across the globe. Users can browse through various cities to check their current times.
 
